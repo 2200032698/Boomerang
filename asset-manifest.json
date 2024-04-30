@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Boomerang/static/css/main.7f3897d9.css",
+    "main.js": "/Boomerang/static/js/main.042fc12d.js",
+    "static/media/background.jpg": "/Boomerang/static/media/background.5f32dd37a8641dfc0718.jpg",
+    "static/media/shuttle.png": "/Boomerang/static/media/shuttle.aeed65db2ca8ed2459c5.png",
+    "index.html": "/Boomerang/index.html",
+    "main.7f3897d9.css.map": "/Boomerang/static/css/main.7f3897d9.css.map",
+    "main.042fc12d.js.map": "/Boomerang/static/js/main.042fc12d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f3897d9.css",
+    "static/js/main.042fc12d.js"
+  ]
+}
